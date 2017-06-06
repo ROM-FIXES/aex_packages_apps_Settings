@@ -23,7 +23,8 @@
         <item>Anderson Mendes</item>
         <item>Mahmod Ayyash(PS-DEV)</item>
         <item>Gaurav Singh (Allstargaurav)</item>
-        <item>Rohit Nayak, Hernán Figueroa (El Dainosor)</item>
+        <item>Hamza Badar</item>
+        <item>Hernán Figueroa (El Dainosor)</item>
         <item>Saket Sawrav</item>
         <item>Nick van Bokhorst (GtrCraft)</item>
         <item>Demetris Ierokipides</item>
@@ -57,7 +58,8 @@
 	<item>EypCnn, Kerem Erkaplan (hd)</item>
         <item>Ajdin Kuduzovic (AjdinK)</item>
 	<item>Rohan Khurana</item>
-	<item>redbeard1083</item>  
+	<item>redbeard1083</item>
+	<item>Ninad Patil (PainKiller3)</item>     
   </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -66,9 +68,10 @@
         <item>Nexus 6P (angler)</item> <!-- Maintainer: FireLord -->
         <item>Redmi Note 3 (kenzo)</item> <!-- Maintainer: AmolAmrit -->
         <item>Moto X 2014 (victara), Moto E (condor)</item> <!-- Maintainer: Anderson Mendes -->
-        <item>Wileyfox storn (kipper)</item> <!-- Maintainer: Mahmod Ayyash (PS-DEV) -->
+        <item>Wileyfox storm (kipper)</item> <!-- Maintainer: Mahmod Ayyash (PS-DEV) -->
         <item>Moto G (falcon)</item> <!-- Maintainer: Gaurav Singh (Allstargaurav) -->
-        <item>Moto E 2015/LTE (otus/surnia)</item> <!-- Maintainer: Rohit Nayak -->
+        <item>Moto E 2015/3g (otus)</item> <!-- Maintainer: Hamza Badar -->
+        <item>Mote E 2015/Lte (surnia)</item> <!-- Maintainer: Hernán Figueroa (El Dainosor) -->
         <item>Redmi 2 (wt88047)</item> <!-- Maintainer: Saket Sawrav -->
         <item>Moto X Play (lux)</item> <!-- Maintainer: Nick van Bokhorst (GtrCraft) -->
         <item>Moto G 2014 (titan), Vibe K5 (A6020)</item> <!-- Maintainer: Demetris Ierokipides -->
@@ -103,6 +106,7 @@
         <item>Google Nexus 6 (Shamu)</item> <!-- Ajdin Kuduzovic (AjdinK) -->
 	<item>Xiaomi Mi5 (Gemini)</item> <!-- Rohan Khurana -->
 	<item>Huawei GX8 (rio)</item> <!-- Maintainer: redbeard1083 --> 
+	<item>Lenovo K3 Note (aio_otfp) </item> <!-- Maintainer: Ninad Patil (PainKiller3) -->     
     </string-array>
 
     <!-- XDA Profile URL of maintainer -->
@@ -113,7 +117,8 @@
         <item>http://forum.xda-developers.com/member.php?u=5696327</item> <!-- Maintainer: Anderson Mendes -->
 	<item>http://forum.xda-developers.com/member.php?u=6277086</item> <!-- Maintainer: Mahmod Ayyash (PS-DEV) -->
         <item>http://forum.xda-developers.com/member.php?u=7751333</item> <!-- Maintainer: Gaurav Singh (Allstargaurav) -->
-        <item>http://forum.xda-developers.com/member.php?u=5350575</item> <!-- Maintainer: Rohit Nayak -->
+        <item>http://forum.xda-developers.com/member.php?u=6797815</item> <!-- Maintainer: Hamza Badar -->
+        <item>http://forum.xda-developers.com/member.php?u=6062450</item> <!-- Maintainer: Hernán Figueroa (El Dainosor) --> 
         <item>http://forum.xda-developers.com/member.php?u=4665275</item> <!-- Maintainer: Saket Sawrav -->
         <item>http://forum.xda-developers.com/member.php?u=5293805</item> <!-- Maintainer: Nick van Bokhorst (GtrCraft) -->
         <item>http://forum.xda-developers.com/member.php?u=1149134</item> <!-- Maintainer: Demetris Ierokipides -->
@@ -148,5 +153,6 @@
 	<item>https://forum.xda-developers.com/member.php?u=7345383</item> <!-- Maintainer: Ajdin Kuduzovic (AjdinK) -->
 	<item>https://forum.xda-developers.com/member.php?u=7526018</item> <!-- Maintainer: Rohan Khurana -->
 	<item>https://forum.xda-developers.com/member.php?u=5399951</item> <!-- Maintainer: redbeard1083 -->
+	<item>https://forum.xda-developers.com/member.php?u=6549853</item> <!-- Maintainer: Ninad Patil (PainKiller3) -->     
     </string-array>
 </resources>
