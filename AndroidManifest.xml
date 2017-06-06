@@ -3408,6 +3408,9 @@
             <meta-data android:name="com.android.settings.TOP_LEVEL_HEADER_ID"
                 android:resource="@string/quick_settings_title" />
         </activity>
-
+	
+	<!-- Gesture Anywhere -->
+	<activity android:name="org.aospextended.extensions.GestureAnywhereBuilderActivity" />
+	<activity android:name="org.aospextended.extensions.GestureAnywhereCreateGestureActivity" />
     </application>
 </manifest>
