@@ -148,16 +148,16 @@
         <org.aospextended.extensions.preference.CustomSeekBarPreference
                 android:key="dashboard_portrait_columns"
                 android:title="@string/dashboard_columns_portrait_title"
-                settings:max="3"
-                settings:min="1"
+                settings:maximum="3"
+                settings:minimum="1"
                 settings:units=""
                 android:persistent="false" />
 
         <org.aospextended.extensions.preference.CustomSeekBarPreference
                 android:key="dashboard_landscape_columns"
                 android:title="@string/dashboard_columns_landscape_title"
-                settings:max="5"
-                settings:min="1"
+                settings:maximum="5"
+                settings:minimum="1"
                 settings:units=""
                 android:persistent="false" />
 
